@@ -38,10 +38,14 @@ a {
 	background-image: url("../images/the-flatiron-building.png");
 	color: White;
 	text-align: center;
-
-
 }
 
+.footer {
+	color: White;
+	font-size: 11px;
+	background-color: DimGrey;
+	text-align: left;
+}
 
 
 p {
