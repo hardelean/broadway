@@ -11,22 +11,26 @@ h1 {
 	font-size: 70px;
 }
 
-h2 {
+h2 h3 {
 	font-size: 23px;
 	}
-
-h3 {
-	font-size: 23px;
-}
 
 h1, h2, h3 {
 	font-weight: bold;
 }
 
+.navlnk, .foolnk,
+.imag, .footer {
+		color: White;
+}
+
 .navlnk {
 	font-size: 18px;
-	color: White;
 	font-weight: bold;
+}
+
+.foolnk {
+	font-size: 14px;
 }
 
 a {
@@ -36,17 +40,14 @@ a {
 
 .imag {
 	background-image: url("../images/the-flatiron-building.png");
-	color: White;
 	text-align: center;
 }
 
 .footer {
-	color: White;
 	font-size: 11px;
-	background-color: dimgray;
+	background-color: Gray;
 	text-align: left;
 }
-
 
 p {
 	display: block;
